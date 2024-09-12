@@ -34,7 +34,6 @@
     "@aws-sdk/s3-presigned-post": "^3.338.0",
     "@aws-sdk/s3-request-presigner": "^3.338.0",
     "atob": "2.1.2",
-    "body-parser": "1.20.0",
     "chalk": "4.1.2",
     "common-tags": "1.8.2",
     "connect-redis": "7.1.0",
